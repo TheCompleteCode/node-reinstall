@@ -16,7 +16,7 @@ USE_NVM=1
 FORCE=0
 
 ## default node version
-NODE_VERSION="0.10"
+NODE_VERSION="4.2"
 
 usage () {
   printf "%s\n" "node-reinstall"
